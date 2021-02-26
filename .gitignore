@@ -1,0 +1,4 @@
+back/node_modules
+back/src/config/db.js
+
+front/node_modules
